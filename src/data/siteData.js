@@ -246,6 +246,6 @@ export const siteData = {
     title: 'Solicita una evaluación técnica',
     description:
       'Cuéntanos qué equipo presenta fallas o qué insumo necesitas. Te responderemos con una evaluación preliminar y los siguientes pasos.',
-    formspreeEndpoint: 'https://formspree.io/f/REEMPLAZAR_ID',
+    formspreeEndpoint: 'https://formspree.io/f/mnjkgrpo',
   },
 }
